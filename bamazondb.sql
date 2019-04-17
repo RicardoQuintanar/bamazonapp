@@ -26,7 +26,7 @@ VALUES
 ("Lawn Mower", "Lawn Care", 250, 300),
 ("Water Hose", "Lawn Care", 50, 100);
 
-SELECT FROM * products;
+SELECT * FROM  products;
 
 CREATE TABLE departments(
     deparment_id INTEGER AUTO_INCREMENT NOT NULL,
