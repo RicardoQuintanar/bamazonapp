@@ -29,7 +29,6 @@ VALUES
 SELECT * FROM  products;
 
 CREATE TABLE departments(
-    deparment_id INTEGER AUTO_INCREMENT NOT NULL,
     department_name VARCHAR(50) NOT NULL,
     PRIMARY KEY(deparment_id)
 );
