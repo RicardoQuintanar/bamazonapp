@@ -1,1 +1,1 @@
-# bamazonapp
+![Test Image 1](bamazontest.png)
